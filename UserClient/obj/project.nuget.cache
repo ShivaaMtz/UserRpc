@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSJoBG8SuWFfkSXXKoftBqRe7ycJ2Tqk2zKtSw9gR1Ppr/hhM67gCalQdnIGt2CkXSvIyeM89o/a7qxzCMvoUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shivaa\\source\\repos\\UserServer\\UserClient\\UserClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shivaa\\.nuget\\packages\\nats.client\\1.0.8\\nats.client.1.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

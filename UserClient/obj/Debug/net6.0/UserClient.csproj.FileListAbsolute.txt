@@ -1,0 +1,17 @@
+C:\Users\Shivaa\source\repos\UserServer\UserClient\bin\Debug\net6.0\UserClient.exe
+C:\Users\Shivaa\source\repos\UserServer\UserClient\bin\Debug\net6.0\UserClient.deps.json
+C:\Users\Shivaa\source\repos\UserServer\UserClient\bin\Debug\net6.0\UserClient.runtimeconfig.json
+C:\Users\Shivaa\source\repos\UserServer\UserClient\bin\Debug\net6.0\UserClient.dll
+C:\Users\Shivaa\source\repos\UserServer\UserClient\bin\Debug\net6.0\UserClient.pdb
+C:\Users\Shivaa\source\repos\UserServer\UserClient\bin\Debug\net6.0\NATS.Client.dll
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.csproj.AssemblyReference.cache
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.AssemblyInfoInputs.cache
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.AssemblyInfo.cs
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.csproj.CoreCompileInputs.cache
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.csproj.CopyComplete
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.dll
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\refint\UserClient.dll
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.pdb
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\UserClient.genruntimeconfig.cache
+C:\Users\Shivaa\source\repos\UserServer\UserClient\obj\Debug\net6.0\ref\UserClient.dll
