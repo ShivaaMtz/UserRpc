@@ -9,12 +9,10 @@ namespace Client.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly IConfiguration _configuration;
         private readonly IUserManagement _userManagement;
 
-        public UserController(IConfiguration configuration, IUserManagement userManagement)
+        public UserController(IUserManagement userManagement)
         {
-            _configuration = configuration;
             _userManagement = userManagement;
         }
 
